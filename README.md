@@ -742,8 +742,8 @@ Contributions are welcome! Areas for improvement:
 
 ## 📞 Contact
 
-**Issues:** [GitHub Issues](https://github.com/yourusername/multilingual-support-bot/issues)  
-**Discussions:** [GitHub Discussions](https://github.com/yourusername/multilingual-support-bot/discussions)
+**Issues:** [GitHub Issues](https://github.com/Matrasulov/qlora-customer-support-llm/issues)  
+**Discussions:** [GitHub Discussions](https://github.com/Matrasulov/qlora-customer-support-llm/discussions)
 
 ---
 
@@ -751,7 +751,7 @@ Contributions are welcome! Areas for improvement:
 
 **Built with ❤️ for production ML deployment**
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/multilingual-support-bot?style=social)](https://github.com/yourusername/multilingual-support-bot)
+[![GitHub Stars](https://img.shields.io/github/stars/Matrasulov/qlora-customer-support-llm?style=social)](https://github.com/Matrasulov/qlora-customer-support-llm)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 </div>
