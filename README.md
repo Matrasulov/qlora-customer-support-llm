@@ -114,20 +114,6 @@ flowchart LR
 ├── data/
 │   └── sample_sft.jsonl              # Training dataset (SFT format)
 │
-├── models/
-│   └── adapters_qwen_supportbot/     # Trained LoRA adapters
-│       ├── adapter_config.json       # LoRA configuration
-│       ├── adapter_model.safetensors # Adapter weights
-│       ├── tokenizer.json            # Tokenizer
-│       ├── chat_template.jinja       # Chat formatting template
-│       ├── vocab.json                # Vocabulary
-│       ├── merges.txt                # BPE merges
-│       └── checkpoint-1/             # Training checkpoint
-│           ├── adapter_model.safetensors
-│           ├── optimizer.pt          # Optimizer state
-│           ├── scheduler.pt          # LR scheduler state
-│           ├── trainer_state.json    # Training progress
-│           └── ...
 │
 ├── notebooks/
 │   └── chat_bot.ipynb                # Interactive demo notebook
@@ -181,8 +167,8 @@ The model **automatically responds in the user's language** without explicit lan
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/multilingual-support-bot.git
-cd multilingual-support-bot
+git clone https://github.com/Matrasulov/qlora-customer-support-llm.git
+cd qlora-customer-support-llm
 
 # Install Python packages
 pip install -r requirements.txt
