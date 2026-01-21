@@ -14,7 +14,7 @@ A **production-grade, self-hosted multilingual customer support chatbot** fine-t
 ## 🚀 Project Overview
 
 Large language models are powerful but expensive to fine-tune and deploy. This project shows how to adapt a **7B instruction-tuned LLM** for **real-world customer support** while keeping memory and compute costs minimal.
-
+![Description of image](visuals/image.png)
 **Key Achievements:**
 - 💰 **99% cost reduction** vs GPT-4 API (~$0.01/1K tokens)
 - 🎯 **Single GPU deployment** with 6-8GB VRAM (4-bit quantization)
