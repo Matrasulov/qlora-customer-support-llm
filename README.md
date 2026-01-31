@@ -1,4 +1,4 @@
-# Resource-Efficient Multilingual Customer Support Bot (QLoRA)
+# Resource-fficient Multilingual Customer Support Bot (QLoRA)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.1+-red.svg)
